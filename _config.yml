@@ -7,7 +7,7 @@ lang: en-US
 timezone:  Europe/Rome
 repo: # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+discus-identifier: # replace with your disqus shortname
 
 author:
   name: Lara Ezarik

@@ -1,4 +1,20 @@
-@import url('../_fonts/stylesheet.css');
+@font-face {
+  font-family: 'Play';
+  src: url('../_fonts/Play-Bold.woff2') format('woff2'),
+      url('../_fonts/Play-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Play';
+  src: url('../_fonts/Play-Regular.woff2') format('woff2'),
+      url('../_fonts/Play-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 *,
 :after,
 :before {
@@ -100,7 +116,7 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
 	--text-font: Play;
-	--source-code-font: Source Code Pro;
+	--source-code-font: monospace;
 	--very-light-text-color: #EEE;
 	--light-text-color: #c4bbf0;
 	--medium-text-color: #52057b;

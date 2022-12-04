@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://laraezarik.github.io/sitemap.xml
+Sitemap: https://laraezarik.com/sitemap.xml

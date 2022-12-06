@@ -2,7 +2,7 @@ site: Lara Ezarik
 title: Lara Ezarik
 greetings: Logo Here
 description: >-
-  just 
+  Thoughts and Ideas
 lang: en-US
 timezone:  Europe/Rome
 repo: # site repo [optional]
@@ -13,10 +13,10 @@ author:
   name: Lara Ezarik
   bio: Just 
   userpicture: 
-  username: LaraEzarik# general username
+  username: LaraEzarik # general username
   github: LaraEzarik
   twitter: # twitter username
-  email: your-email@email.com # email adress
+  email: # email adress
 
 
 
